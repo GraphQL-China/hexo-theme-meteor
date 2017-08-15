@@ -1,10 +1,10 @@
 logo:
-  nav_mobile: images/logo-apollo-space-left.svg
-  subbrand: images/logo-apollo-subbrands-developers-space.svg
+  nav_mobile: tools/images/logo-apollo-space-left.svg
+  subbrand: tools/images/logo-apollo-subbrands-developers-space.svg
   title: Apollo
   subtitle: Developers
   url: http://dev.apollodata.com/
-favicon: images/favicon.png
+favicon: tools/images/favicon.png
 
 nav_links:
   'React':
@@ -15,13 +15,13 @@ nav_links:
     url: http://dev.apollodata.com/ios
   'Android':
     url: http://dev.apollodata.com/android
-  'Vanilla JS':
+  '原生 JS':
     url: http://dev.apollodata.com/core
-  'Server':
+  '服务端':
     url: http://dev.apollodata.com/tools
     separator: true
-  'Blog':
+  '博客':
     url: https://medium.com/apollo-stack
     target: _new
-  'Community':
+  '社区':
     url: http://dev.apollodata.com/community
